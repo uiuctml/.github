@@ -1,5 +1,4 @@
-# .github
-## Trustworthy ML Lab @ UIUC
+# Trustworthy ML Lab @ UIUC
 
 We are a group of researchers from the University of Illinois Urbana Champaign, working on machine learning research, including:
 
