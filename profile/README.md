@@ -1,7 +1,7 @@
 # Trustworthy ML Lab @ UIUC
 ## Hi there 👋
 
-We are a group of researchers from the University of Illinois Urbana Champaign, working on machine learning research, aiming to push the frontier of machine learning beyond accuracy and efficiency. A list of topics that we are currently working on include:
+We are a group of researchers from the University of Illinois Urbana-Champaign, working on machine learning research, aiming to push the frontier of machine learning beyond accuracy and efficiency. A list of topics that we are currently working on includes:
 
 - Distributional robustness: domain adaptation, domain generalization, transfer learning
 - Algorithmic fairness: group fairness, post-processing algorithms
