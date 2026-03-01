@@ -5,8 +5,8 @@ We are a group of researchers from the University of Illinois Urbana-Champaign, 
 
 - Distributional robustness: domain adaptation, domain generalization, transfer learning
 - Algorithmic fairness: group fairness, post-processing algorithms
-- Differential privacy: intersection between fairness, privacy & robustness
-- Data attribution: influence function, Shapley values
+- Privacy: intersection between fairness, privacy & robustness, machine unlearning
+- Explainability: influence function, Shapley values, data attributions, 
 - Probabilistic circuits: expressiveness, neuro-symbolic models, interpretability
 - AI for Science: foundation models for geospatial data
 
