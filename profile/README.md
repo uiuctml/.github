@@ -11,4 +11,4 @@ We are a group of researchers from the University of Illinois Urbana-Champaign, 
 - AI for Science: foundation models for geospatial data
 
 An overview of our group's research:
-![research](assets/overview.jpg)
+![research](../assets/overview.jpg)
